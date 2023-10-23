@@ -8,4 +8,4 @@ Prezentációért, dokumentációért, és munkáért felelős: Lenhardt Károly
 
 
 
-2023.10.23-án elkezdtük felfedezni a Jira projektmenedzser szoftvert, és elkezdtünk ötletelni a projektről. Arra jutottunk, hogy életmóddal kapcsolatos terméket szeretnénk készíteni, amely a HTML és CSS alapokon fekszik (ismét webbel a szeretnénk dolgozni). 
+2023.10.23-án elkezdtük felfedezni a Jira projektmenedzser szoftvert, és elkezdtünk ötletelni a projektről. Arra jutottunk, hogy életmóddal kapcsolatos terméket szeretnénk készíteni, amely a HTML és CSS alapokon fekszik (ismét webbel a szeretnénk dolgozni). A Weboldal fájljainak menedzselését ismételten GitHubon tervezzük, ezúttal Károly hozta létre a Repositoryt, és hívta meg a többieket. 
