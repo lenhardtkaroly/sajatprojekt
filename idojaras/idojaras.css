@@ -1,0 +1,107 @@
+.weather_card{
+    background-color: rgb(131, 149, 168);
+    width: 100%;
+    max-width: 400px;
+    border-radius: 15px;
+    float: left;
+    margin: 40px 30px;
+    color: black;
+    opacity: 80%;
+    
+}
+.search{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+
+
+
+
+}
+
+#search-icon{
+    background-color: slategrey;
+    border-width: 0px;
+    margin-left: 2px;
+    outline: none;
+    border-radius: 50%;
+    cursor: pointer;
+    transition: 0.2s  ease-in-out;
+   
+
+}
+
+#search-icon:hover{
+    
+    background-color: rgb(182, 199, 216);
+
+}
+
+.search-bar{
+    background-color: slategrey;
+    border-width: 0px;
+    outline: none;
+    height: 24px;
+    border-radius: 27px;
+    font-size: 100%;
+    padding: 5px;
+    width: 60%;
+    transition: 0.2s  ease-in-out;
+    color: black;
+    
+
+}
+.search-bar::placeholder{
+    color: black;
+}
+
+
+
+.idojaras{
+    margin-left: 15px;
+    padding: 5px;
+    padding-bottom: 20px;
+    font-size: 120%;
+}
+.description {
+    text-transform: capitalize;
+    margin-left: 8px;
+  }
+
+.flex {
+    display: flex;
+    align-items: center;
+  }
+.weather_city{
+    margin-left: 5px;
+}
+
+.weather_temp{
+    margin-bottom: 5px;
+    margin-left: 15px;
+}
+.paratartalom{
+    margin-left: 15px;
+
+}
+.wind{
+    margin-left: 15px;
+}
+.weather.loading {
+    visibility: hidden;
+    max-height: 20px;
+    position: relative;
+  }
+
+.weather.loading:after {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    visibility: visible;
+    content: "Loading...";
+    color: black;
+    position: absolute;
+    top: 0;
+    left: 20px;
+  }
