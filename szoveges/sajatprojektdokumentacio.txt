@@ -1,10 +1,10 @@
-Projektvezető,dokumentációért: Kis Gergely
+Projektvezető, dokumentációért felelős: Kis Gergely
 
 Technikáért felelős: Kothencz Martin
 
 Prezentációért, dokumentációért, és munkáért felelős: Lenhardt Károly
 
-Mérföld kövek:
+Mérföldkövek:
     ötlet kiválasztása(2023/10/24)
     megcsinálni a kitalált funkciókat(2023/11/05)
     dizájn létrehozása(---)
