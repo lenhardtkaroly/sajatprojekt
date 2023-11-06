@@ -4,11 +4,18 @@ Technikáért felelős: Kothencz Martin
 
 Prezentációért, dokumentációért, és munkáért felelős: Lenhardt Károly
 
-
-
-
+Mérföld kövek:
+    ötlet kiválasztása(2023/10/24)
+    megcsinálni a kitalált funkciókat(2023/11/05)
+    dizájn létrehozása(---)
+    fő oldal létrehozása(---)
+    közel végleges verzió(---)
+    project vége(---)
+    dokumentáció(project teljes ideje allat)
 
 2023.10.23-án elkezdtük felfedezni a Jira projektmenedzser szoftvert, és elkezdtünk ötletelni a projektről. Arra jutottunk, hogy életmóddal kapcsolatos terméket szeretnénk készíteni, amely a HTML és CSS alapokon fekszik (ismét webbel a szeretnénk dolgozni). A Weboldal fájljainak menedzselését ismételten GitHubon tervezzük, ezúttal Károly hozta létre a Repositoryt, és hívta meg a többieket.
-Kis Gergely létre hozta a jira projectett és hozá adta Martint és Károlyt majd létrehozta a mérföld kövekett meg próbálta időban elhelyezni őkett és létrehozni az előre láthatólag öszes felépő feladatott amit a csoportból bárki el tudd válallni.
+Kis Gergely létre hozta a jira projectett és hozá adta Martint és Károlyt majd létrehozta a mérföld kövekett meg próbálta időban elhelyezni őkett és létrehozni az előre láthatólag öszes felépő feladatott amit a csoportból bárki el tudd válallni.(githubot is használunk egyidőbe a jiraval)
 
 2023.10.24. órán nekilátunk utána nézni azoknak amit be akarunk tenni a weboldara majd mindenki elválalt első körben 1 feladatott Martin a naptárat, Károly a to-do list-et, Gergely pedig az időjárást.
+
+2023.10.28.-2023.11.05. Az őszi szünet ideje allat mindenki az első tényleges mérföldkőböl elválalt feladatával foglalkozok majd 2023.11.05. össze ültünk el rendeztünk mindent jirába feltöltötük a fájlokat és átbeszéltük a projekt eddigi haladásait. nem tudom hogy ezt a részt így menyire tudjuk le zarni mivel a weboldalunk nagyon semleges így gyakorlatilag a project ideje allat bármivel ki tudjuk bővíteni. 
