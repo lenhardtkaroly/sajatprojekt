@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+      .myDiv {
+        width: 70%;
+        height: 400px;
+        background: rgba(58,58,58,1);
+        margin: auto;
+        border-radius: 20px;
+        padding: 20px;
+        margin-top: 50px;
+      }
+      .mydes {
+        
+      }
+    </style>
+    </head>
+    <body>
+        <h1>The onclick Event</h1>
+        <button id ="theBoxes" >Creating boxes</button>
+        <div id="box">
+          <h1>X</h1>
+        </div>
+        <script>
+        var x = document.getElementById("theBoxes");
+        x.addEventListener("click", myFunction)
+        function myFunction() {
+          var box = document.createElement('div');
+          box.classList.add('myDiv');
+          document.body.appendChild(box); 
+        }
+          </script>
+    </body>
+</html>
