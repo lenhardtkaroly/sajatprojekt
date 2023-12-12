@@ -1,4 +1,4 @@
-Projektvezető, dokumentációért felelős: Kis Gergely
+﻿Projektvezető, dokumentációért felelős: Kis Gergely
 
 Technikáért felelős: Kothencz Martin
 
@@ -18,4 +18,12 @@ Kis Gergely létre hozta a jira projectett és hozá adta Martint és Károlyt m
 
 2023.10.24. órán nekilátunk utána nézni azoknak amit be akarunk tenni a weboldara majd mindenki elválalt első körben 1 feladatott Martin a naptárat, Károly a to-do list-et, Gergely pedig az időjárást.
 
-2023.10.28.-2023.11.05. Az őszi szünet ideje allat mindenki az első tényleges mérföldkőböl elválalt feladatával foglalkozok majd 2023.11.05. össze ültünk el rendeztünk mindent jirába feltöltötük a fájlokat és átbeszéltük a projekt eddigi haladásait. nem tudom hogy ezt a részt így menyire tudjuk le zarni mivel a weboldalunk nagyon semleges így gyakorlatilag a project ideje allat bármivel ki tudjuk bővíteni. 
+2023.10.28.-2023.11.05. Az őszi szünet ideje allat mindenki az első tényleges mérföldkőböl elválalt feladatával foglalkozik majd 
+
+2023.11.05. össze ültünk el rendeztünk mindent jirába feltöltötük a fájlokat és átbeszéltük a projekt eddigi haladásait. nem tudom hogy 
+ezt a részt így menyire tudjuk le zarni mivel a weboldalunk nagyon semleges így gyakorlatilag a project ideje allat bármivel ki tudjuk bővíteni. 
+
+2023.11.07-2023.12.10 mindenki folytatta a saját feladatát, közben Gergely folyamatosan vezette a projekt menetét, és a mérföldköveket a Jira szoftverben.
+Mikor körvonalazódni látszottak a különböző munkák közösen megbeszéltük, hogy hogyan is tervezzük hármunk munkáját egy oldalon elhelyezni.
+
+2023.12.12 elkezdtük megformálni a főoldalt és mindenki megkapta a saját feladatait, órán neki is láttunk.
