@@ -1,0 +1,146 @@
+/* Import Google font - Open Sans */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&display=swap');
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Open Sans', sans-serif;
+}
+body {
+  background-color: rgba(35,35,35,1);
+  
+}
+h1 {
+  background: #5372F0;
+  font-size: 1.75rem;
+  text-align: center;
+  padding: 18px 0;
+  color: #fff;
+}
+h2{
+  color: #fff;
+}
+
+.weather-data {
+  width: 75%;
+  margin-left: 175px;
+  margin-top: 20px;
+  background-image: url('https://source.unsplash.com/1600x900/?landscape');
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-shadow: 0px 0px 5px black;
+  border-radius: 10px;
+  opacity: 70%;
+  
+  
+}
+.weather-data .current-weather {
+  color: #fff;
+  
+  border-radius: 5px;
+  padding: 20px 70px 20px 20px;
+  display: flex;
+  justify-content: space-between;
+}
+.current-weather h2 {
+  font-weight: 700;
+  font-size: 1.7rem;
+}
+.weather-data h6 {
+  margin-top: 6px;
+  font-size: 1rem;
+  font-weight: 500;
+}
+.current-weather .icon {
+  text-align: center;
+}
+.current-weather .icon img {
+  max-width: 120px;
+  margin-top: -15px;
+}
+.current-weather .icon h6 {
+  margin-top: -10px;
+  text-transform: capitalize;
+}
+.days-forecast h2 {
+  margin: 20px 0;
+  font-size: 1.5rem;
+}
+.days-forecast .weather-cards {
+  display: flex;
+  gap: 20px;
+}
+.weather-cards .card {
+  color: #fff;
+  padding: 18px 16px;
+  list-style: none;
+  width: calc(100% / 5);
+  border-radius: 5px;
+}
+.weather-cards .card h3 {
+  font-size: 1.3rem;
+  font-weight: 600;
+}
+.weather-cards .card img {
+  max-width: 70px;
+  margin: 5px 0 -12px 0;
+}
+
+.search{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10px;
+  opacity: 90%;
+
+
+
+
+}
+
+#search-icon{
+  background-color: white;
+  border-width: 0px;
+  margin-left: 2px;
+  outline: none;
+  border-radius: 50%;
+  cursor: pointer;
+  transition: 0.2s  ease-in-out;
+  opacity: 80%;
+ 
+
+}
+
+#search-icon:hover{
+  opacity: 100%;
+  background-color: gray;
+
+}
+
+.search-bar{
+  background-color: white;
+  border-width: 0px;
+  outline: none;
+  height: 24px;
+  border-radius: 27px;
+  font-size: 100%;
+  padding: 5px;
+  width: 60%;
+  transition: 0.2s  ease-in-out;
+  color: black;
+  opacity: 80%;
+  
+
+}
+.search-bar::placeholder{
+  color: black;
+  opacity: 100%;
+}
+
+
+
