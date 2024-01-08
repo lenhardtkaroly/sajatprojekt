@@ -1,0 +1,1 @@
+Projektünk az egészségről, életmódról szól. Azért választottuk ezt a témát, mert a mai rohanó világban ez is a mindennapok részét képezi, és nem fordítunk rá elég időt, és figyelmet. HTML, JavaScript, CSS, és PHP használatával szeretnénk megvalósítani. Több oldalt készítünk külön-külön, mégis egymás keze alé dolgozva. 
